@@ -2,5 +2,5 @@ $(start);
 
 function start(){
 	$('body').append(startpage());
-  $('body').append(article());
+  $('#page-content').append(article());
 }
