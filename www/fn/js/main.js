@@ -1,3 +1,6 @@
-$(document).ready(function(){
-$('body').append(article());
-});
+$(start);
+
+function start(){
+	$('body').append(startpage());
+  $('body').append(article());
+}
