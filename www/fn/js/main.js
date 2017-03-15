@@ -1,4 +1,6 @@
-$(document).ready(){
-	
-	$('body').append(puff());
+$(start);
+
+function start(){
+	$('body').append(startpage());
+  $('body').append(article());
 }
