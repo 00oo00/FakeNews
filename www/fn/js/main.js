@@ -3,8 +3,8 @@ $(start);
 function start(){
 	
 	$('body').append(startpage());
-	$('body').append(article());
-	$('body').append(puff());
-	
-	
+
+  $('#page-content').append(article());
+  	$('#page-content').append(puff());
+
 }
