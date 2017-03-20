@@ -1,8 +1,17 @@
-$(start);
+var articles;
+
+$.getJSON('json/articles.json', function(data){
+	articles = data;
+	$(start);
+
+});
 
 function start(){
-	
-	$('body').append(startpage());
+	console.log('articles', articles);
 
-  $('#page-content').append(article());
+
+	$('body').append(startpage());
+	$('#page-content').append(article(articles[1]));
+
+
 }
