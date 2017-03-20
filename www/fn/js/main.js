@@ -5,9 +5,9 @@ var arrArticles = [];
 $.getJSON("json/articles.json", function(data){
 	console.log(data);
 	arrArticles = data;
-	arrPuff.push(data[0]);
-	arrPuff.push(data[1]);
-	arrPuff.push(data[1]);
+	arrPuff.push(data[3]);
+	arrPuff.push(data[4]);
+	arrPuff.push(data[5]);
 	$(start);
 });
 
@@ -25,3 +25,4 @@ function start(){
   	$('#page-content').append(article(arrArticles[1]));
 
 }
+
