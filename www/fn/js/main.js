@@ -1,4 +1,3 @@
-
 var arrPuff = [];
 var arrArticles = [];
 
@@ -18,10 +17,10 @@ function radomPuff(){
 	
 }
 
-
 function start(){
 	//radomPuff();
 	$('body').append(startpage());
   	$('#page-content').append(article(arrArticles[1]));
+
 
 }

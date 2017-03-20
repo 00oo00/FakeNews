@@ -5,8 +5,8 @@
 		"ingress": ["Någon gång i framtiden kanske du ser dem", "De förarlösa lastbilar som till och med sägs köra säkrare än människor.", "Men än är det långt kvar tills de är i kommersiellt bruk.", "Nu provas lastbilarna inom kort på riksväg 40 mellan Göteborg och Borås."],
 		"text": ["Fordonen är del av ett toppmodernt och avancerat autonomt transportsystem, som tagits fram under en tioårs period av forskning.", "Tekniken ska användas främst inom gruvindustrin, i exempelvis farliga miljöer där människor inte ska vistas, men där lastbilar kan vistas och utföra ett arbete.", "'Vi räknar på att gruvindustrin kan dra ned sina kostnader med cirka 40-50 procent genom att använda självkörande lastbilar',säger Jon Fangel,projektledare på Scania.",
 		"Processen ska gradvis optimeras och till en början kan exempelvis en chaufför kontrollera två lastbilar."],
-		"picture": "http://teknikensvarld.se/wp-content/uploads/2014/07/google-bil.jpg",
-		"video": "https://www.youtube.com/embed/KL6EO76wULc",
+		"picture": "http://www.lekoutlet.se/shop/21498/art98/h0199/21850199-origpic-331f4b.jpg",
+		"video": "https://www.youtube.com/embed/KL6EO76wULc?ecver=2",
 		"category": "Teknik",
 		"author": "Tobias Persson",
 		"date": "23 Juni, 2012"
@@ -17,10 +17,21 @@
 		"ingress": ["I förorterna kring sveriges tre största städer börjar nästa vecka bepansrade sightseeingbussar rulla.", "-I Stockholm kommer bussarna att utgå från Danderyd, Lidingö, Östermalm och köra runt bland annat Rinkeby och Tensta, säger eventkoordinatorn Pål Karburner på upplevelseföretaget som anordnar sightseeing-turerna."],
 		"text": ["I förorterna kring sveriges tre största städer börjar nästa vecka bepansrade sightseeingbussar rulla.", "Bussarna är förstärkta med pansar för att kunna stå emot allt från kastade gatstenar till granatkastare.", "-I Stockholm kommer bussarna att utgå från Danderyd, Lidingö, Östermalm och köra runt bland annat Rinkeby och Tensta, säger eventkoordinatorn Pål Karburner på upplevelseföretaget som anordnar sightseeing-turerna.", "-Vi stannar förstås inte och släpper av eller plockar upp någon i förorterna, det vore livsfarligt!, vi åker bara sakta igenom så våra kunder hinner titta och ta bilder, förklarar Pål Karburner.", "Skört ekosystem", "Förorterna kring Sveriges största städer anses av många experter vara ett unikt och skört ekosystem som främlingar ska undvika att ge sig in i.", "-Risken är ju att man ändrar i dess naturliga fauna, säger zoologen Arne Task.", "-Stövlar man t.ex in där och börjar sälja vanliga cigaretter så finns ju risken att man konkurerar ut hashet som florerar där naturligt, förklarar Arne Task.", "Arne Task tror dock att sightseeingbussar i måttlig mängd kan hjälpa till att öka medvetenheten kring dessa sköra områden.", "-Fast jag vet inte hur dom kan lova turisterna att de ska få uppleva både stenkastning och bilbränder på en och samma sightseeing-tur?, undrar Arne Task.", "Blåljus på taket", "-Vi har flera sätt att locka fram de mest skygga primaterna i förorten!, säger Pål Karburner entusiastiskt.", "-Våra bussar kommer att utrustas med blåljus på taket och sirener som kan låta som ambulanser, brandbilar och polisbilar, förklarar han.", "Tanken är att varje busstur ska utstå minst en äkta stenkastning och att besökarna ska få se en bil brinna upp.", "-Vi har ett nära sammarbete med gatukontoren i områdena och dom ser till att gatstenar finns tillgängliga och att de inte sitter fast för hårt i marken, säger Pål Karburner.", "-Sen har vi flera försäkringsbolag som engagerat sig med blandad entusiasm i våra planer på att ställa ut avställda bilar på särskilt utsatta parkeringsplatser, fortsätter Pål.", "I Malmö och Göteborg rullar bussarna också igång nästa vecka och de stora dragplåstrena är förstås förorterna Rosengård i Malmö och Balltorp utanför Göteborg.", "/Bert Bruhn"],
 		"picture": "http://nyheternasverige.se/wp-content/uploads/2017/03/img_2903-768x286.jpg",
-		"video": "https://www.youtube.com/embed/0BhhsEuYXZQ",
+		"video": "https://www.youtube.com/embed/0BhhsEuYXZQ?ecver=2",
 		"category": "Teknik",
 		"author": "Bert Bruhn",
 		"date": "15 Mars, 2017"
-
+	},
+	{
+		"id": "3",
+		"headLine": "Så hanterar du prestationsångesten",
+		"ingress": ["Många i vårt land har prestationsångest. Det är inte så bra. Det finns hjälp att få."],
+		"text": ["Prestationsångest är ett stresstillstånd som uppstår när den inre tryggheten vacklar.", "Det får till följd att du tror att ditt värde mäts efter vad du gör och inte efter vem du är.", 
+		"Konsekvensen blir att du tror att ju mer du presterar desto mer är du värd. Detta skapar ofta ett gott självförtroende, men svag självkänsla och det utvecklar prestationsångest.", "Prestationsångest brukar kännas som scenskräck och blir särskilt märkbar när andra ska se, höra och bedöma vad du gör, t ex framträda på en scen, hålla tal, prata på möten och göra presentationer.","För att hantera detta kan man äta choklad"],
+		"picture": "https://wallpaperbrowse.com/media/images/81.jpg",
+		"video": "https://www.youtube.com/embed/vaEY0RL8Fs4?ecver=2",
+		"category": "Hälsa",
+		"author": "Carl Thelonius Karlsson",
+		"date": "4 December 1923"
 	}
 ]
