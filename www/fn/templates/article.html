@@ -1,7 +1,11 @@
 function article (data){ return`
 <article class="col-md-8">
-	<h1>${data.headLine}</h1>
+ <div>
+ 	<p class="dateTime">Publicerat: ${data.date}</p>
+	<h1 class="title">${data.headLine}</h1>
 	<p><strong>${data.ingress}</strong></p>
+	<p class="authorName">Skribent: ${data.author}</p>
+</div>
 	<p>${data.text}</p>
 	
 	<div class="row">
@@ -19,10 +23,7 @@ function article (data){ return`
 	<!-- <div>
 	   <iframe width="560" height="315" src =  frameborder="0" allowfullscreen></iframe>
 	</div> -->
-	<div><p>${data.author}</p>
-		 <p>${data.date}</p>
-
-	</div>
+	
 
 </article>
 <div class="puffs col-xs-12 col-md-4">
