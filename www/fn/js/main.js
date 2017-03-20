@@ -25,6 +25,5 @@ function start() {
 	$('body').append(startpage());
 	$('#page-content').append(article(arrArticles[2]));
 
-
 }
 
