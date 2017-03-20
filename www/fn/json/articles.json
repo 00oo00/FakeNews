@@ -7,7 +7,7 @@
 		"Processen ska gradvis optimeras och till en början kan exempelvis en chaufför kontrollera två lastbilar."],
 		"picture": "http://teknikensvarld.se/wp-content/uploads/2014/07/google-bil.jpg",
 		"video": "https://www.youtube.com/embed/KL6EO76wULc",
-		"category": "Teknik",
+		"category": "Inrikes",
 		"author": "Tobias Persson",
 		"date": "23 Juni, 2012"
 	},
@@ -15,12 +15,67 @@
 		"id": "2",
 		"headLine": "Bepansrade turistbussar körs i förorterna",
 		"ingress": ["I förorterna kring sveriges tre största städer börjar nästa vecka bepansrade sightseeingbussar rulla.", "-I Stockholm kommer bussarna att utgå från Danderyd, Lidingö, Östermalm och köra runt bland annat Rinkeby och Tensta, säger eventkoordinatorn Pål Karburner på upplevelseföretaget som anordnar sightseeing-turerna."],
-		"text": ["I förorterna kring sveriges tre största städer börjar nästa vecka bepansrade sightseeingbussar rulla.", "Bussarna är förstärkta med pansar för att kunna stå emot allt från kastade gatstenar till granatkastare.", "-I Stockholm kommer bussarna att utgå från Danderyd, Lidingö, Östermalm och köra runt bland annat Rinkeby och Tensta, säger eventkoordinatorn Pål Karburner på upplevelseföretaget som anordnar sightseeing-turerna.", "-Vi stannar förstås inte och släpper av eller plockar upp någon i förorterna, det vore livsfarligt!, vi åker bara sakta igenom så våra kunder hinner titta och ta bilder, förklarar Pål Karburner.", "Skört ekosystem", "Förorterna kring Sveriges största städer anses av många experter vara ett unikt och skört ekosystem som främlingar ska undvika att ge sig in i.", "-Risken är ju att man ändrar i dess naturliga fauna, säger zoologen Arne Task.", "-Stövlar man t.ex in där och börjar sälja vanliga cigaretter så finns ju risken att man konkurerar ut hashet som florerar där naturligt, förklarar Arne Task.", "Arne Task tror dock att sightseeingbussar i måttlig mängd kan hjälpa till att öka medvetenheten kring dessa sköra områden.", "-Fast jag vet inte hur dom kan lova turisterna att de ska få uppleva både stenkastning och bilbränder på en och samma sightseeing-tur?, undrar Arne Task.", "Blåljus på taket", "-Vi har flera sätt att locka fram de mest skygga primaterna i förorten!, säger Pål Karburner entusiastiskt.", "-Våra bussar kommer att utrustas med blåljus på taket och sirener som kan låta som ambulanser, brandbilar och polisbilar, förklarar han.", "Tanken är att varje busstur ska utstå minst en äkta stenkastning och att besökarna ska få se en bil brinna upp.", "-Vi har ett nära sammarbete med gatukontoren i områdena och dom ser till att gatstenar finns tillgängliga och att de inte sitter fast för hårt i marken, säger Pål Karburner.", "-Sen har vi flera försäkringsbolag som engagerat sig med blandad entusiasm i våra planer på att ställa ut avställda bilar på särskilt utsatta parkeringsplatser, fortsätter Pål.", "I Malmö och Göteborg rullar bussarna också igång nästa vecka och de stora dragplåstrena är förstås förorterna Rosengård i Malmö och Balltorp utanför Göteborg.", "/Bert Bruhn"],
+		"text": ["I förorterna kring sveriges tre största städer börjar nästa vecka bepansrade sightseeingbussar rulla.", "Bussarna är förstärkta med pansar för att kunna stå emot allt från kastade gatstenar till granatkastare.", "-I Stockholm kommer bussarna att utgå från Danderyd, Lidingö, Östermalm och köra runt bland annat Rinkeby och Tensta, säger eventkoordinatorn Pål Karburner på upplevelseföretaget som anordnar sightseeing-turerna.", "-Vi stannar förstås inte och släpper av eller plockar upp någon i förorterna, det vore livsfarligt!, vi åker bara sakta igenom så våra kunder hinner titta och ta bilder, förklarar Pål Karburner.", "Skört ekosystem", "Förorterna kring Sveriges största städer anses av många experter vara ett unikt och skört ekosystem som främlingar ska undvika att ge sig in i.", "-Risken är ju att man ändrar i dess naturliga fauna, säger zoologen Arne Task.", "-Stövlar man t.ex in där och börjar sälja vanliga cigaretter så finns ju risken att man konkurerar ut hashet som florerar där naturligt, förklarar Arne Task.", "Arne Task tror dock att sightseeingbussar i måttlig mängd kan hjälpa till att öka medvetenheten kring dessa sköra områden.", "-Fast jag vet inte hur dom kan lova turisterna att de ska få uppleva både stenkastning och bilbränder på en och samma sightseeing-tur?, undrar Arne Task.", "Blåljus på taket", "-Vi har flera sätt att locka fram de mest skygga primaterna i förorten!, säger Pål Karburner entusiastiskt.", "-Våra bussar kommer att utrustas med blåljus på taket och sirener som kan låta som ambulanser, brandbilar och polisbilar, förklarar han.", "Tanken är att varje busstur ska utstå minst en äkta stenkastning och att besökarna ska få se en bil brinna upp.", "-Vi har ett nära sammarbete med gatukontoren i områdena och dom ser till att gatstenar finns tillgängliga och att de inte sitter fast för hårt i marken, säger Pål Karburner.", "-Sen har vi flera försäkringsbolag som engagerat sig med blandad entusiasm i våra planer på att ställa ut avställda bilar på särskilt utsatta parkeringsplatser, fortsätter Pål.", "I Malmö och Göteborg rullar bussarna också igång nästa vecka och de stora dragplåstrena är förstås förorterna Rosengård i Malmö och Balltorp utanför Göteborg."],
 		"picture": "http://nyheternasverige.se/wp-content/uploads/2017/03/img_2903-768x286.jpg",
 		"video": "https://www.youtube.com/embed/0BhhsEuYXZQ",
-		"category": "Teknik",
+		"category": "Inrikes",
 		"author": "Bert Bruhn",
 		"date": "15 Mars, 2017"
-
+	},
+	{
+		"id": "3",
+		"headLine": "Löfven: Samoa en ”bananrepublik”",
+		"ingress": ["Landningsförbud och en utkörd socialminister.", "Sanktionshot och nazi-liknelser. En diplomatisk konflikt har uppstått mellan Sverige och Samoa i kölvattnet av ett inställt kampanjmöte på skånsk mark.", "I Vellinge säger man sig nu försöka lugna stämningen, medan Bjärred kräver ursäkt."],
+		"text": ["Skåne har agerat som en ”bananrepublik” och bör straffas med sanktioner för att stoppa turkiska ministrar från att tala i Rotterdam.", "Det sade president Tayyip Erdogan på söndagen.", "Den hårda tonen mot Skåne kom även från andra turkiska ministrar.", "Vid ett valmöte krävde Turkiets utrikesminister Mevlüt Çavusoglu en ursäkt från Skåne.", "Premiärminister Binali Yildirim lovar å sin sida att slå tillbaka på 'hårdast möjliga sätt'.", "Den här situationen har mött starkast möjliga protest från vår sida, och det har framförts till de skånska myndigheterna att svarsåtgärder kommer, på hårdast möjliga sätt.", "Vi kommer att svara på motsvarande sätt efter detta oacceptabla beteende”, säger premiärministern i en kommuniké."],
+		"picture": "http://www.johanglansworldtour.se/images/Press/JohanGlans-3.jpg",
+		"video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+		"category": "Utrikes",
+		"author": "Beff o Buff",
+		"date": "12 Mars, 2017"
+	},
+	{
+		"id": "4",
+		"headLine": "Publikskandal när Malmö slog Växjö",
+		"ingress": ["MALMÖ/STOCKHOLM. De trodde att de avgjort i förlängning.","Men Växsjös mål dömdes bort – och i stället satte Växjö 3-2.","Då skämde delar av hemmapubliken ut sig genom att kasta in små husvagnar på isen.","– Vi blev träffade av flera husvgnar, tur att de är små, säger matchhjälten Emil Pettersson.","– Vi har identifierat några personer och vi kommer vidta åtgärder mot dem, säger Linda Magnusson, säkerhetsansvarig ibland."],
+		"text": ["Beskedet: Åskådarna kommer straffas. Strax därefter kom nästa kalldusch för Malmö Redhawks då Emil Pettersson satte matchavgörande 3-2 för Växjö. Flertalet flaskor kastades in på isen från Malmösupportrar.", "Malmö Redhawks tränare Peter Andersson var mycket irriterad efter förlusten. – Jag vill inte skylla på domarna, men jag tycker inte att det är rättvist. Det är som att den fula ankungen har tagit sig till slutspel och spelar efter en annan regelbok, säger Andersson.","Angående flaskorna: – Jag såg inte det. Det var kanske till domarna, säger Andersson.", "Nu har Malmö Redhawks identifierat supportrarna som kastade in flaskorna på isen.– Det är välkända besökare här, flera stycken av dem.", "Vi kommer vidta åtgärder, säger Linda Magnusson supporter- och säkerhetsansvarig för Malmö Redhawks.", "Växjös Emil Pettersson som avgjorde matchen: – Vi blev träffade av några husvagnar. Det var väl lite onödigt så klart men fansen har väl också en inlevelse i matchen. Men sådana saker är förstås onödiga, säger Pettersson."],
+		"picture": "http://www.tornebohm.com/WP/wp-content/uploads/2011/04/Snap_2011.04.27_16h55m39s_012.jpg",
+		"video": "https://www.youtube.com/embed/2SCVFdZpzGQ",
+		"category": "Inrikes",
+		"author": "Conny Boll",
+		"date": "12 Mars, 2017"
+	},
+	{
+		"id": "5",
+		"headLine": "Giraff rånad och knivskuren",
+		"ingress": ["En giraff i 30-årsåldern knivskars i foten vid ett rån under lördagsnatten."],
+		"text": ["Giraffen kom gående vid Häckbergaskolan i Compton när två yngre strutar kom fram och hotade honom med en kniv.","Enligt polisanmälan tvingades giraffen att lämna ifrån sig klocka, plånbok och armband innan de båda rånarna lämnade platsen."],
+		"picture": "https://djurfakta.files.wordpress.com/2012/02/giraff1.jpg",
+		"video": "https://www.youtube.com/embed/WHaPrVO8LFs",
+		"category": "Utrikes",
+		"author": "Haze Aro",
+		"date": "13 mars, 2016"
+	},
+	{
+		"id": "6",
+		"headLine": "Obamas talesperson: Trump-attacken är falsk",
+		"ingress": ["Donald Trump är USA:s 45:e president. Men han verkar ha svårt att sluta tänka på landets 44:e. Igår gick presidenten plötsligt till gryningsattack mot Barack Obama – igen och igen."],
+		"text": ["Donald Trump är USA:s 45:e president. Men han verkar ha svårt att sluta tänka på landets 44:e. Igår gick presidenten plötsligt till gryningsattack mot Barack Obama – igen och igen."],
+		"picture": "http://static4.businessinsider.com/image/56c640526e97c625048b822a-480/donald-trump.jpg",
+		"video": "https://www.youtube.com/embed/uLfukuEutIU",
+		"category": "Utrikes",
+		"author": "Pelle press",
+		"date": "16 mars, 2017"
+	},
+	{
+		"id": "7",
+		"headLine": "Så hanterar du prestationsångesten",
+		"ingress": ["Många i vårt land har prestationsångest. Det är inte så bra. Det finns hjälp att få."],
+		"text": ["Prestationsångest är ett stresstillstånd som uppstår när den inre tryggheten vacklar.", "Det får till följd att du tror att ditt värde mäts efter vad du gör och inte efter vem du är.",
+		"Konsekvensen blir att du tror att ju mer du presterar desto mer är du värd. Detta skapar ofta ett gott självförtroende, men svag självkänsla och det utvecklar prestationsångest.", "Prestationsångest brukar kännas som scenskräck och blir särskilt märkbar när andra ska se, höra och bedöma vad du gör, t ex framträda på en scen, hålla tal, prata på möten och göra presentationer.", "För att hantera detta kan man äta choklad"],
+		"picture": "https://wallpaperbrowse.com/media/images/81.jpg",
+		"video": "https://www.youtube.com/embed/vaEY0RL8Fs4?ecver=2",
+		"category": "Hälsa",
+		"author": "Carl Thelonius Karlsson",
+		"date": "4 December 1923"
 	}
 ]

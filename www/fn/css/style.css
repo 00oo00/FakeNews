@@ -9,8 +9,7 @@
 .container .text-muted {
     margin: 0;
     margin-bottom: 10px;
-    text-align: center;
-    
+    text-align: center;    
 }
 
 footer{
@@ -20,6 +19,12 @@ footer{
 .navbar-brand{
 	font-family: 'Playfair Display SC';
 	font-size: 30px;	
+}
+
+#navbar-link{
+	font-family: 'Playfair Display SC';
+	font-size: 22px;	
+	color: white;
 }
 
 .text-muted .contactAddress:hover{
@@ -51,6 +56,8 @@ footer{
     color: white;
 }
 
+
+
 .navbar-default .navbar-brand:hover {
     color: white;
 }
@@ -71,6 +78,14 @@ footer{
     cursor: pointer;
 }
 
+.puffDiv>img{
+    max-width: 100%;
+}
+
+.puff-image{
+    text-align: center;
+}
+
 .puffHeader{
     font-family: 'Lato';
     font-size: 25px;
@@ -80,4 +95,20 @@ footer{
 
 h5{
     line-height: 18px;
+}
+
+.puffs{
+    margin-top: 15px;
+}
+
+.puff-container {
+    padding: 0;
+    padding-right: 7px;
+    padding-right: 7px;
+}
+
+@media screen and (max-width: 320px){
+    .title{
+        font-size: 30px;
+    }
 }
