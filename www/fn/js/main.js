@@ -25,15 +25,15 @@ function start() {
 	$('body').append(startpage());
 	$('#page-content').append(article(arrArticles[arrArticles.length -1]));
 
-
 }
 
 $(document).on('click', '.puffDiv', function(){
 	
 	var articleId = $(this).attr("value");
 	//article är objektet i array arrArticles
-	for(let art of arrArticles){
+	for(let [key,art] of arrArticles.entries()){
 		if(articleId == art.id){
+			randomPuff(key);
 			$('#page-content').html('');
 			$('#page-content').append(article(art));
 		}
