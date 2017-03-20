@@ -1,19 +1,25 @@
-$(start);
+var arrPuff = [];
+var arrArticles = [];
 
-var puffs = [];
+$.getJSON("json/articles.json", function(data){
+	console.log(data);
+	arrArticles = data;
+	arrPuff.push(data[0]);
+	arrPuff.push(data[1]);
+	arrPuff.push(data[1]);
+	$(start);
+});
+
+function radomPuff(){
+	var randomized = Math.random(0, arrArticles.length);
+	console.log(randomized);
+	return randomized;
+	
+}
+
 
 function start(){
-
-	$.getJSON('json/articles.json', function(data){
-		puffs.push(data[1]);
-		loadDom();
-	});
-
-
-} 
-
-function loadDom(){
+	//radomPuff();
 	$('body').append(startpage());
-  $('#page-content').append(article());
-  	//$('#page-content').append(puff());
+  	$('#page-content').append(article());
 }

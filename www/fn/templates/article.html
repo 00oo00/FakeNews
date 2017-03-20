@@ -1,6 +1,6 @@
-function article (){ return`
+function article (data){ return`
 <article>
-	<h1>Title</h1>
+	<h1>title</h1>
 	<p><strong>Paragraph, should be bold</strong></p>
 	<p>Paragraph 2</p>
 	<div>
@@ -12,9 +12,9 @@ function article (){ return`
 	<div><p>Author information</p></div>
 </article>
 <div class="puffs">
-	${this.puff(this.puffs[0])}
-	${this.puff(this.puffs[0])}
-	${this.puff(this.puffs[0])}
+	${this.puff(this.arrPuff[0])}
+	${this.puff(this.arrPuff[1])}
+	${this.puff(this.arrPuff[0])}
 </div>
 
 `} 

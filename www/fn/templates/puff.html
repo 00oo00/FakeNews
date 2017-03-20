@@ -1,9 +1,10 @@
-function puff (puffen){ return`
+function puff (puffData){ return`
 
 <div class="well well-sm col-sm-4">
-		<img src="https://www.alandsbanken.se/uploads/images/Ledning-och-styrelse/Goran-Persson.png" height="100px" class="puffImage">
-		<h3>${puffen.headLine}</h3>
-		<h5>Kvinna dödade man.Kvinna dödade man.Kvinna dödade man.</h5>	
+		<img src= "${puffData.picture}" height="100px" class="puffImage">
+		<h3>${puffData.headLine}</h3>
+		<h5>${puffData.ingress.join("<h5></h5>")}</h5>	
+
 		
 	</div>
 
