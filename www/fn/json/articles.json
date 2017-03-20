@@ -22,5 +22,49 @@
 		"author": "Bert Bruhn",
 		"date": "15 Mars, 2017"
 
+	},
+	{
+		"id": "3",
+		"headLine": "Löfven: Samoa en ”bananrepublik”",
+		"ingress": ["Landningsförbud och en utkörd socialminister. Sanktionshot och nazi-liknelser. En diplomatisk konflikt har uppstått mellan Sverige och Samoa i kölvattnet av ett inställt kampanjmöte på skånsk mark. I Vellinge säger man sig nu försöka lugna stämningen, medan Bjärred kräver ursäkt."],
+		"text": ["Skåne har agerat som en ”bananrepublik” och bör straffas med sanktioner för att stoppa turkiska ministrar från att tala i Rotterdam. Det sade president Tayyip Erdogan på söndagen. Den hårda tonen mot Skåne kom även från andra turkiska ministrar. Vid ett valmöte krävde Turkiets utrikesminister Mevlüt Çavusoglu en ursäkt från Skåne. Premiärminister Binali Yildirim lovar å sin sida att slå tillbaka på ”hårdast möjliga sätt”. ”Den här situationen har mött starkast möjliga protest från vår sida, och det har framförts till de skånska myndigheterna att svarsåtgärder kommer, på hårdast möjliga sätt. Vi kommer att svara på motsvarande sätt efter detta oacceptabla beteende”, säger premiärministern i en kommuniké."],
+		"picture": "http://www.johanglansworldtour.se/images/Press/JohanGlans-3.jpg",
+		"video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+		"category": "Världen",
+		"author": "Beff o Buff",
+		"date": "12 Mars, 2017"
+	},
+	{
+		"id": "4",
+		"headLine": "Publikskandal när Malmö slog Växjö",
+		"ingress": ["MALMÖ/STOCKHOLM. De trodde att de avgjort i förlängning. Men Växsjös mål dömdes bort – och i stället satte Växjö 3-2. Då skämde delar av hemmapubliken ut sig genom att kasta in små husvagnar på isen. – Vi blev träffade av flera husvgnar, tur att de är små, säger matchhjälten Emil Pettersson. – Vi har identifierat några personer och vi kommer vidta åtgärder mot dem, säger Linda Magnusson, säkerhetsansvarig ibland."],
+		"text": ["Beskedet: Åskådarna kommer straffas. Strax därefter kom nästa kalldusch för Malmö Redhawks då Emil Pettersson satte matchavgörande 3-2 för Växjö. Flertalet flaskor kastades in på isen från Malmösupportrar. Malmö Redhawks tränare Peter Andersson var mycket irriterad efter förlusten. – Jag vill inte skylla på domarna, men jag tycker inte att det är rättvist. Det är som att den fula ankungen har tagit sig till slutspel och spelar efter en annan regelbok, säger Andersson. Angående flaskorna: – Jag såg inte det. Det var kanske till domarna, säger Andersson. Nu har Malmö Redhawks identifierat supportrarna som kastade in flaskorna på isen.– Det är välkända besökare här, flera stycken av dem. Vi kommer vidta åtgärder, säger Linda Magnusson supporter- och säkerhetsansvarig för Malmö Redhawks. Växjös Emil Pettersson som avgjorde matchen: – Vi blev träffade av några husvagnar. Det var väl lite onödigt så klart men fansen har väl också en inlevelse i matchen. Men sådana saker är förstås onödiga, säger Pettersson."],
+		"picture": "http://www.tornebohm.com/WP/wp-content/uploads/2011/04/Snap_2011.04.27_16h55m39s_012.jpg",
+		"video": "https://www.youtube.com/embed/2SCVFdZpzGQ",
+		"category": "Sport",
+		"author": "Conny Boll",
+		"date": "12 Mars, 2017"
+	},
+	{
+		"id": "5",
+		"headLine": "Giraff rånad och knivskuren",
+		"ingress": ["En giraff i 30-årsåldern knivskars i foten vid ett rån under lördagsnatten."],
+		"text": ["Giraffen kom gående vid Häckbergaskolan i Genarp när två yngre strutar kom fram och hotade honom med en kniv. Enligt polisanmälan tvingades giraffen att lämna ifrån sig klocka, plånbok och armband innan de båda rånarna lämnade platsen."],
+		"picture": "https://djurfakta.files.wordpress.com/2012/02/giraff1.jpg",
+		"video": "https://www.youtube.com/embed/WHaPrVO8LFs",
+		"category": "Kriminal",
+		"author": "Haze Aro",
+		"date": "13 mars, 2016"
+	},
+	{
+		"id": "6",
+		"headLine": "Obamas talesperson: Trump-attacken är falsk",
+		"ingress": ["Donald Trump är USA:s 45:e president. Men han verkar ha svårt att sluta tänka på landets 44:e. Igår gick presidenten plötsligt till gryningsattack mot Barack Obama – igen och igen."],
+		"text": ["Donald Trump är USA:s 45:e president. Men han verkar ha svårt att sluta tänka på landets 44:e. Igår gick presidenten plötsligt till gryningsattack mot Barack Obama – igen och igen."],
+		"picture": "http://static4.businessinsider.com/image/56c640526e97c625048b822a-480/donald-trump.jpg",
+		"video": "https://www.youtube.com/embed/uLfukuEutIU",
+		"category": "Världen",
+		"author": "Pelle press",
+		"date": "16 mars, 2017"
 	}
 ]
