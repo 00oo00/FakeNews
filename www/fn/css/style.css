@@ -9,8 +9,7 @@
 .container .text-muted {
     margin: 0;
     margin-bottom: 10px;
-    text-align: center;
-    
+    text-align: center;    
 }
 
 footer{
@@ -20,6 +19,12 @@ footer{
 .navbar-brand{
 	font-family: 'Playfair Display SC';
 	font-size: 30px;	
+}
+
+#navbar-link{
+	font-family: 'Playfair Display SC';
+	font-size: 22px;	
+	color: white;
 }
 
 .text-muted .contactAddress:hover{
@@ -50,6 +55,8 @@ footer{
 .navbar-default .navbar-brand {
     color: white;
 }
+
+
 
 .navbar-default .navbar-brand:hover {
     color: white;
