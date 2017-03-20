@@ -1,8 +1,26 @@
-$(start);
+var arrPuff = [];
+var arrArticles = [];
 
-var a = "https://www.youtube.com/embed/KL6EO76wULc?ecver=2"
+$.getJSON("json/articles.json", function(data){
+	console.log(data);
+	arrArticles = data;
+	arrPuff.push(data[0]);
+	arrPuff.push(data[1]);
+	arrPuff.push(data[1]);
+	$(start);
+});
+
+function radomPuff(){
+	var randomized = Math.random(0, arrArticles.length);
+	console.log(randomized);
+	return randomized;
+	
+}
 
 function start(){
+	//radomPuff();
 	$('body').append(startpage());
-  $('#page-content').append(article(a));
+  	$('#page-content').append(article(arrArticles[1]));
+
+
 }
