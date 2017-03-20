@@ -1,8 +1,8 @@
 $(start);
 
-function start(){
-	
-	$('body').append(startpage());
+var a = "https://www.youtube.com/embed/KL6EO76wULc?ecver=2"
 
-  $('#page-content').append(article());
+function start(){
+	$('body').append(startpage());
+  $('#page-content').append(article(a));
 }
