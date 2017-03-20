@@ -7,7 +7,7 @@ $.getJSON("json/articles.json", function(data){
 });
 
 function radomPuff(){
-	var randomized = Math.random(0, attPuff.length);
+	var randomized = Math.random(0, arrPuff.length);
 	console.log(randomized);
 	return randomized;
 	
@@ -15,9 +15,8 @@ function radomPuff(){
 
 
 function start(){
-	
+	radomPuff();
 	$('body').append(startpage());
-	$('body').randomPuff();
   	$('#page-content').append(article());
 	$('#page-content').append(puff(arrPuff[0]));
 	$('#page-content').append(puff(arrPuff[1]));
