@@ -61,3 +61,54 @@ footer{
 .navbar-default .navbar-brand:hover {
     color: white;
 }
+
+.title{
+    font-family: 'Lato';
+    font-weight: bold;
+    font-size: 55px;
+    margin-top: -10px;
+}
+
+.dateTime, .authorName{
+    color:grey;
+    font-style: italic;
+}
+
+.puffDiv{
+    cursor: pointer;
+}
+
+.puffDiv>img{
+    max-width: 100%;
+}
+
+.puff-image{
+    text-align: center;
+}
+
+.puffHeader{
+    font-family: 'Lato';
+    font-size: 25px;
+    font-weight: bolder;
+    padding-bottom: 5px;
+}
+
+h5{
+    line-height: 18px;
+}
+
+.puffs{
+    margin-top: 15px;
+}
+
+.puff-container {
+    padding: 0;
+    padding-right: 7px;
+    padding-right: 7px;
+}
+
+@media screen and (max-width: 320px){
+    .title{
+        font-size: 30px;
+    }
+}

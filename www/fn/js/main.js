@@ -20,10 +20,26 @@ function randomPuff(currentArticle) {
 }
 
 function start() {
-	randomPuff(2);
+	randomPuff(arrArticles.length -1);
 	console.log(arrPuff);
 	$('body').append(startpage());
-	$('#page-content').append(article(arrArticles[2]));
+	$('#page-content').append(article(arrArticles[arrArticles.length -1]));
 
 }
 
+$(document).on('click', '.puffDiv', function(){
+	
+	var articleId = $(this).attr("value");
+	//article är objektet i array arrArticles
+	for(let art of arrArticles){
+		if(articleId == art.id){
+			$('#page-content').html('');
+			$('#page-content').append(article(art));
+		}
+	}
+	
+
+	console.log(articleId);
+
+
+});
